@@ -1,4 +1,4 @@
-#!/bin/bang
+#!/bin/bash
 
 NUMBER=$1
 
